@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MiniActivitat5</string>
+    <string name="notOperating">No network operating!!</string>
+    <string name="wifiOperating">Wifi connected!</string>
+    <string name="mobileOperating">Mobile connected!</string>
+    <string name="split">__</string>
 </resources>
